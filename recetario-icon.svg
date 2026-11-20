@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Recetario">
+  <rect width="64" height="64" rx="6" fill="#005293"/>
+  <path d="M18 10h19l11 11v31a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2z" fill="#fff"/>
+  <path d="M37 10v9a2 2 0 0 0 2 2h9z" fill="#d21034"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" font-style="italic" fill="#005293">Rx</text>
+  <rect x="21" y="47" width="22" height="2.5" rx="1.25" fill="#9fbcd9"/>
+  <circle cx="47" cy="47" r="11" fill="#d21034" stroke="#005293" stroke-width="3"/>
+  <path d="M47 41v12M41 47h12" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+</svg>
